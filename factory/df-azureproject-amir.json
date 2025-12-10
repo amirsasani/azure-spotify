@@ -1,0 +1,9 @@
+{
+	"name": "df-azureproject-amir",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fdfaf7b3-3127-4932-b2e4-d93ef25c7ab1",
+		"tenantId": "2a05ac92-2049-4a26-9b34-897763efc8e2"
+	}
+}
